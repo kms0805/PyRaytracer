@@ -7,15 +7,15 @@ generate 3D renderings of scenes using the principles of ray tracing.
 - Phong illumination
 - Texture mapping for spheres and polygons
 
+
 ## Results
-<img src="results/final1_no_duck.png" >
-<img src="results/final1_no_ice.png" >
-<img src="results/final2_no_duck.png" >
-<img src="results/final2_no_ice.png" >
-<img src="results/final3_no_duck.png" >
-<img src="results/final3_no_ice.png" >
+<img src="results/final1_no_duck.png" ><img src="results/final1_no_ice.png" ><img src="results/final2_no_duck.png" ><img src="results/final2_no_ice.png" >
+<img src="results/final3_no_duck.png" ><img src="results/final3_no_ice.png" >
 
 
 ### Requirements
 - numpy
 - opencv-python
+  
+
+This project may not have an efficient implementation, resulting in long rendering times for complex scenes.
